@@ -14,6 +14,13 @@
   ## Após Tudo Instalado:
   - Fazer Download da pasta: Jogo_exe
   
+  ## Problemas ao Rodar Arquivo .jar:
+  - Caso o Computador não reconheça a extensão .jar Fazer a sequinte alteração:
+  - "Em Abre com:" alterar para: OpenJDK Platform binary  
+  
+  ![](https://github.com/LucasGabryellll/JogoNave/blob/master/bin/RodarJogo.png)
+  
+  
   
   # Desenvolvido com a Tecnologia:
    - Java
