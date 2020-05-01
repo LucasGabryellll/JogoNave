@@ -10,5 +10,10 @@
  - Instalação Java: 
   https://www.java.com/pt_BR/download/
   
+  
+  ## Após Tudo Instalado:
+  - Fazer Download da pasta: Jogo_exe
+  
+  
   # Desenvolvido com a Tecnologia:
    - Java
