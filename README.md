@@ -12,7 +12,7 @@
   
   
   ## 👍 Após Tudo Instalado:
-  - Fazer Download da pasta: Jogo_exe
+  - Fazer Download da pasta(Upload files): Jogo_exe
   
   ## ❗ Problemas ao Rodar Arquivo .jar:
   - Caso o Computador não reconheça a extensão .jar Fazer a sequinte alteração:
