@@ -24,3 +24,6 @@
   
   # 🚀 Desenvolvido com a Tecnologia:
    - Java
+
+ # 🎓 Curso:
+  - Sistemas de Informações(UFPE)
