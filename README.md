@@ -1,6 +1,9 @@
-# 💻 JOGO DE NAVE ESPACIAL
+# JOGO DE NAVE ESPACIAL
 
-- Jogo 2D construido em Java com a Arquitetura de Software MVC.
+# 💻 Projeto:
+ É Jogo 2D construido daqueles de nave Espacial com objetivo de destruir 
+ os inimigos que vem ate você. Construido em Java com a Arquitetura de Software MVC.
+
 
 ## ❓ Pre-requisitos para rodar o projeto:
 
