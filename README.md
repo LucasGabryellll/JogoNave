@@ -22,7 +22,8 @@
   
   
   
-  # 🚀 Desenvolvido com a Tecnologia:
+  # 🚀 Tecnologias:
+  Esse projeto foi desenvolvido com a seguinte tecnologia:
    - Java
 
  # 🎓 Curso:
