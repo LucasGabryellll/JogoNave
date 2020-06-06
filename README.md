@@ -30,4 +30,4 @@
    - Java
 
  # 🎓 Curso:
-  - Sistemas de Informações(UFPE)
+  - Sistemas de Informações(UFRPE)
